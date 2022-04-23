@@ -3,6 +3,27 @@ body {
     color: white;
 }
 
+.top {
+    display: flex;
+    background-color: rgb(236, 212, 145);
+    color: black;
+    border-radius: 10px;
+    max-width: 800px;
+    /* padding: 10px; */
+}
+
+.img-card {
+    padding: 7.5px;
+    background-color: black;
+    max-width: 300px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
 .french {
     border-radius: 10px;
+}
+
+.top-caption {
+    padding-left: 20px;
 }
