@@ -27,3 +27,11 @@ body {
 .top-caption {
     padding-left: 20px;
 }
+
+.leaf {
+    object-fit: cover;
+}
+
+/* #leaf {
+    object-fit: cover;
+} */
