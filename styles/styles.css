@@ -3,6 +3,10 @@ body {
     color: white;
 }
 
+.cards {
+    margin: auto;
+}
+
 .top {
     display: flex;
     /* background-color: rgb(236, 212, 145); */
