@@ -3,12 +3,18 @@ body {
     color: white;
 }
 
-.cards {
-    margin: auto;
+.page-top {
+    text-align: center;
 }
+
+/* .cards {
+    margin: auto;
+    align-content: center;
+} */
 
 .top {
     display: flex;
+    margin: auto;
     /* background-color: rgb(236, 212, 145); */
     color: black;
     border-radius: 10px;
