@@ -1,31 +1,25 @@
 body {
     background-color: brown;
     color: white;
+    margin: 0;
 }
 
 .nav {
     background-color: black;
-    margin-top: 0px;
 }
 
 .page-top {
     text-align: center;
+    margin-top: 0px;
 }
-
-/* .cards {
-    margin: auto;
-    align-content: center;
-} */
 
 .top {
     display: flex;
     margin: auto;
-    /* background-color: rgb(236, 212, 145); */
     color: black;
     border-radius: 10px;
     max-width: 700px;
     background: linear-gradient(to right, rgb(236, 212, 145), pink);
-    /* padding: 10px; */
 }
 
 .img-card {
