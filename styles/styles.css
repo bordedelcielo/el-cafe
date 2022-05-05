@@ -3,6 +3,11 @@ body {
     color: white;
 }
 
+.nav {
+    background-color: black;
+    margin-top: 0px;
+}
+
 .page-top {
     text-align: center;
 }
